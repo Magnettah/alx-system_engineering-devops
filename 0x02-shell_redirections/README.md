@@ -17,3 +17,4 @@ A script that displays  all the lines in the file /etc/passwd that do not contai
 A script that displays all lines of the file /etc/ssh/sshd_config starting with a letter.
 A script that replaces all characters A and c from input to Z and e respectively.
 A script that removes all letters c and C from input.
+A script that reverses its input.
